@@ -1,9 +1,10 @@
 import React from 'react'
+import './Result.css'
 
 const Result = (props) => {
   return (
-    <div>
-      {props.side1} * {props.side2} * {props.side3}
+    <div className="result">
+        {props.result}
     </div>
   )
 }
