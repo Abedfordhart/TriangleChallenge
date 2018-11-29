@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Usage
+
+This application helps users determine the type of triangle their dimensions reflect. Simply input dimensions for sides A, B and C and click submit. 
+
 ## Available Scripts
 
 In the project directory, you can run:
