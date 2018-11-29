@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Usage
 
-This application helps users determine the type of triangle their dimensions reflect. Simply input dimensions for sides A, B and C and click submit. 
+This application helps users determine the type of triangle their dimensions reflect. Simply input dimensions for sides A, B and C then click submit. 
 
 ## Available Scripts
 
