@@ -6,7 +6,11 @@ This application helps users determine the type of triangle their dimensions ref
 
 ## Available Scripts
 
-In the project directory, you can run:
+To get started run 
+
+### `npm install`
+
+Then, in the project directory, you can run:
 
 ### `npm start`
 
